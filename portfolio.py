@@ -566,7 +566,7 @@ experiences = [
         "role": "Analista de Controladoria",
         "period": "Jan 2021 – Out 2022 · Araras, SP",
         "desc": "Análise e controle financeiro com foco em dados operacionais. Suporte à controladoria com relatórios gerenciais e indicadores de desempenho.",
-        "tags": ["Controladoria", "Excel", "ERP Sienge", "Relatórios Gerenciais"],
+        "tags": ["Controladoria", "Excel", "ERP Sênior", "Relatórios Gerenciais"],
     },
     {
         "company": "Soft-line Soluções em Sistemas",
