@@ -377,7 +377,7 @@ st.markdown("""
         <span class="badge badge-indigo">💼 Salesforce · CRM</span>
     </div>
     <div class="hero-cta-row">
-        <a class="btn-primary" href="https://www.linkedin.com/in/gabrielesgalha" target="_blank" style="color: #ffffff;">🔗 LinkedIn</a>
+        <a class="btn-primary" href="https://www.linkedin.com/in/gabriel-esgalha" target="_blank" style="color: #ffffff;">🔗 LinkedIn</a>
         <a class="btn-secondary" href="mailto:gabrielesgalhar1@hotmail.com">✉️ Enviar e-mail</a>
         <a class="btn-primary" href="https://api.whatsapp.com/send?phone=5518997187131&text=Oi%2C+vim+pelo+seu+site%21" style="color: #ffffff;">
             📱 Enviar WhatsApp
@@ -663,7 +663,7 @@ with col_contact:
         <div class="contact-icon">🔗</div>
         <div>
             <div class="contact-label">LinkedIn</div>
-            <div class="contact-value">linkedin.com/in/gabrielesgalha</div>
+            <div class="contact-value">linkedin.com/in/gabriel-esgalha</div>
         </div>
     </div>
     <div class="contact-item">
