@@ -398,7 +398,7 @@ stats = [
     ("8+", "Anos de experiência em dados"),
     ("3+", "ERPs e CRMs integrados"),
     ("15+", "Dashboards entregues"),
-    ("3", "Empresas imobiliárias atendidas"),
+    ("6", "Empresas do setor imobiliário atendidas"),
 ]
 cols = [c1, c2, c3, c4]
 for col, (num, label) in zip(cols, stats):
@@ -491,7 +491,7 @@ projects = [
     {
         "icon": "🔮",
         "title": "Sales Forecasting com Machine Learning",
-        "desc": "Modelo preditivo de vendas em Python que antecipa tendências e suporta o planejamento estratégico da diretoria, com integração direta ao pipeline comercial da Pacaembu.",
+        "desc": "Modelo preditivo de vendas em Python que antecipa tendências e suporta o planejamento estratégico da diretoria, com integração direta ao pipeline comercial.",
         "stack": "Python · Scikit-learn · Pandas · Power BI",
         "color": "#6366f1",
     },
